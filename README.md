@@ -2,7 +2,7 @@
 
 ## Info
 
-Hi there, this is Ayanokoji (or Ayan), A 14 Y.O. Programmer from nowhere
+Hi there, this is DarkPhew (or Dark), A 14 Y.O. Programmer from nowhere
 
 - 🔭 I’m currently working on being **Programmer**
 - :computer: I am working for Hackers too
@@ -10,9 +10,9 @@ Hi there, this is Ayanokoji (or Ayan), A 14 Y.O. Programmer from nowhere
 
 ## Where to find me
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Itz-Ayanokoji)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Itz_Ayanokoji)
-[<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:itz-ayanokoji@outlook.com)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/DarkSoulsPlay)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DarkPhew)
+[<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:DarksSoulsGamers@outlook.com)
 
 ## OS & Tools
 
@@ -32,18 +32,18 @@ Hi there, this is Ayanokoji (or Ayan), A 14 Y.O. Programmer from nowhere
 
 ## 🔥 Streak stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itz-Ayanokoji&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarkSoulsGames&theme=radical&hide_border=true)
 
 ## Github Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Itz-Ayanokoji&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=Itz-Ayanokoji&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
+![stats](https://github-readme-stats.vercel.app/api?username=DarkSoulsGames&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=DarkSoulsGames&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
 <br>
 
 <center>
   <table>
     <tr>
-        <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-ayanokoji&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSoulsGames&hide=html&layout=compact&theme=tokyonight" /></td>
     </tr>   
   </table>
 </center>  
