@@ -1,4 +1,4 @@
-<p align="center">  <img src="https://telegra.ph/file/fdf403fd12580fa256dfc.jpg" alt="CharlieTheHack1"/></p>
+<p align="center">  <img src="https://darkphew.vercel.app/api/raw/?path=/%F0%9F%8D%8A%20Wallpaper/1.png" alt="DarkSoulsPlay"/></p>
 
 ## Info
 
